@@ -1,0 +1,17 @@
+.ricerca {
+  padding: 8px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+
+li {
+  list-style-type: none;
+  padding: 8px;
+  cursor: pointer;
+}
+
+li.selezionato {
+  background-color: lightblue;
+}
